@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Royce24vaz
-- 👀 I’m interested in web development
+- 👀 I’m a wordpress developer.
 - 📫 How to reach me @royce_vaz on Instagram
 
 <!---
